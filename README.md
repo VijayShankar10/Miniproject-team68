@@ -24,12 +24,19 @@ SpendGenius is a robust application designed to provide individuals and business
 
 ## Output
 
-#### Output1 - Future Spending Forecast
+#### Output1 -Disposable Income Correlation with other variables
+![Screenshot 2024-11-22 104558](https://github.com/user-attachments/assets/64f00977-36d7-4908-bf95-73ae70be201b)
 
-![Screenshot 2024-11-16 093200](https://github.com/user-attachments/assets/bd0bff4c-b1f6-4296-8454-693043ee86d3)
 
-#### Output2 - Budget Spend Analysis and Future Predictions
-![Screenshot 2024-11-16 093226](https://github.com/user-attachments/assets/540e55f8-f81d-46c0-9ab7-5e6ae5055aca)
+
+#### Output2 - Predicted vs Actual Spending
+![Screenshot 2024-11-22 104609](https://github.com/user-attachments/assets/1d8c4f85-a236-4254-94cb-06e92d559616)
+
+#### Output3 - model for the prediction
+
+![Screenshot 2024-11-22 104625](https://github.com/user-attachments/assets/f4a9bee3-7216-461f-b11a-cc74b11c8e57)
+![Screenshot 2024-11-22 104632](https://github.com/user-attachments/assets/094be6e6-bbe7-4c31-bb42-0b10110bd300)
+
 
 
 
